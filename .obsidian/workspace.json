@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Hello-World/readme.md",
+                "file": "readme.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Hello-World/readme.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-Hello-World/readme.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Hello-World/readme.md",
+                "file": "readme.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,6 +185,8 @@
   },
   "active": "bab6d5cec60c8ad7",
   "lastOpenFiles": [
+    "01-Hello-World/readme.md",
+    "readme.md",
     "02-Tipos-primitivos/readme.md",
     "03-Tipos-nao-primitivos/readme.md",
     "04-Entrada-de-dados/readme.md",
@@ -192,7 +194,6 @@
     "05-Exercicios",
     "04-Entrada-de-dados/Main.java",
     "04-Entrada-de-dados",
-    "01-Hello-World/readme.md",
     "03-Tipos-nao-primitivos/Main.java",
     "03-Tipos-nao-primitivos",
     "02-Tipos-primitivos/Main.java",
